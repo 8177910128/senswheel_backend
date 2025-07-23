@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mt.sensewheel",
+    "sha256_cert_fingerprints":
+    ["59:B4:8E:83:34:B9:F6:B7:DE:92:7D:57:58:DD:AE:5A:66:3A:94:C2:63:57:7E:0C:38:28:2A:B3:17:3C:3E:B3"]
+}
+}]
